@@ -1,0 +1,2 @@
+# Maritime-Piracy-Attack-Predictor
+Utilized a data scraper to extract 7500 maritime piracy incidents from the International Maritime Bureau's (IMB) database to develop model assessing likelihood of pirate event. Created a classification model that predicts pirate attacks based on success or failure. Produced a geospatially enhanced model using GeoPandas to establish real world coordinates of pirate events. Generated data visualizations showing the distribution of attacks over time using Tableau and Matplotlib.
